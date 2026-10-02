@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"b4ce1794cfcaca51","x":-385,"y":-60,"width":125,"height":60,"color":"6","type":"text","text":"eco-pond"},
+		{"id":"6963b887d6c2ab70","type":"text","text":"electronic","x":-385,"y":60,"width":125,"height":60,"color":"6"}
+	],
+	"edges":[]
+}
