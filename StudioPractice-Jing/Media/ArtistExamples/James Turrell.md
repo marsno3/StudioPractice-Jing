@@ -1,0 +1,4 @@
+_Frontal Passage_
+1994
+
+![[W1siZiIsIjIyODY0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg]]
