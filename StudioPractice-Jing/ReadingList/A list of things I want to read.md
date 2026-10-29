@@ -1,7 +1,7 @@
 Once you read something, its a good idea to write a quick reflection or summary on what you just read. It helps you understand it better but it also helps you look back over to remember what you have read and how it influenced you.
 
 
-[Xenofeminism](https://laboriacuboniks.net/manifesto/xenofeminism-a-politics-for-alienation/)
+## [Xenofeminism](https://laboriacuboniks.net/manifesto/xenofeminism-a-politics-for-alienation/)
 If nature is unjust, change nature!
 
 > [!0X02] 
@@ -16,7 +16,7 @@ If nature is unjust, change nature!
 > 我們要怎麼樣成為這個新世界的主人？我們要如何建立一種更好的象徵寄生體 (semiotic parasite) ——一種能夠滋生我們的想要的慾望的寄生體？它不是侮辱和憤怒的自噬性狂歡，卻是解放式的平均主義的社群，被新形式的無私的團結和集體的自我控制所支持。
 
 
-**Title**: Ethics — Part 3
+## **Title**: Ethics — Part 3
 
 **Author**: Benedictus de Spinoza
 
@@ -28,7 +28,14 @@ XXI. He who conceives, that the object of his love is affected pleasurably or pa
 
 
 
-Le Guin, U. K., & Lee, B. (2024). _The carrier bag theory of fiction_. cosmogenesis.
+## Le Guin, U. K., & Lee, B. (2024). _The carrier bag theory of fiction_. cosmogenesis.
 
 > [!Container] 
 how do you get more than one stomachful and one handful home? So you get up and go to the damned soggy oat patch in the rain, and wouldn't it be a good thing if you had something to put Baby Oo Oo in so that you could pick theoats with both hands? A leaf a gourd a shell a net a bag a sling a sack a bottle a pot a box a container. A holder. A recipient.
+
+
+## # Living Data
+
+## Making Sense of Health Biosensing
+https://bristoluniversitypress.co.uk/living-data
+
